@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">RREM</string>
+
+    <string name="title_home">Home</string>
+    <string name="title_product">Products</string>
+    <string name="title_receive">Receive</string>
+    <string name="title_release">Release</string>
+    <string name="title_user">User</string>
+    <string name="add_button_receive">Add Supplier</string>
+    <string name="add_button_prod">Add Item</string>
+
+
+
+    <string-array name="access_levels">
+        <item>Staff</item>
+        <item>Owner</item>
+        <item>Manager</item>
+    </string-array>
+</resources>
